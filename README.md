@@ -1,7 +1,14 @@
 SDBlog
 ======
 
+
 Demo of Blog based on GoogleAppEngine and python including topics like cache,db,json file,cookie,etc.
+
+All modules are put into main.py
+
+And,all html files are in template.
+
+ps:
 
 I really recommend GAE, which is so awesome and convenient.
 
