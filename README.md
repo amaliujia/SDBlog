@@ -4,9 +4,7 @@ SDBlog
 
 Demo of Blog based on GoogleAppEngine and python including topics like cache,db,json file,cookie,etc.
 
-All modules are put into main.py
-
-And,all html files are in template.
+All modules are put into main.py,and all html files are in template.
 
 ps:
 
